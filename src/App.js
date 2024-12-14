@@ -26,7 +26,7 @@ const BlogTravelGuides = () => {
 
 
       {/* Main Content */}
-      <div className="container mx-auto px-4 py-12">
+      <div className="container mx-auto px-10 py-12">
         <TravelTips/>
 
         {/* Unique Experiences */}
